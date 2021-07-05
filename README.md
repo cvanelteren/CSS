@@ -13,7 +13,8 @@ Clone this repo as a baseline for the complex system simulation course. The proj
 In addition please include (and fill in) the following headers
 
 # Installation
-How do is this package run?
+How is this package installed?
+How do is this package run to generate the output?
 
 # Sources
 A section containing the references you used
