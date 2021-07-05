@@ -7,9 +7,11 @@ Clone this repo as a baseline for the complex system simulation course. The proj
 - A readme.md
 - A `requirements.txt` for python or equivalent for you language
 - A src dir
+- The final presentation
 - [optional] experiments folder
 - [optional] figures folder containing all figures (or videos)
 
+When handing in the code, generate a release from this repo and upload the ZIP file to canvas.
 In addition please include (and fill in) the following headers
 
 # Installation
